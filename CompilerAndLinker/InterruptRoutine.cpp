@@ -1,5 +1,5 @@
-#include "../lib/console.h"
-#include "../lib/hw.h"
+#include "../project-base/lib/console.h"
+#include "../project-base/lib/hw.h"
 
 uint64 timerCount = 0;
 
